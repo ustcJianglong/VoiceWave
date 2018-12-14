@@ -6,7 +6,7 @@ import android.opengl.Matrix;
 import android.support.annotation.ColorInt;
 import android.support.annotation.Size;
 
-import com.example.deeson.mysurfaceview.R;
+import com.example.voice.R;
 import com.yalantis.waves.util.ColorUtil;
 import com.yalantis.waves.util.RawResourceReader;
 import com.yalantis.waves.util.ShaderHelper;

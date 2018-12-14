@@ -1,4 +1,4 @@
-package com.example.deeson.mysurfaceview;
+package com.example.voice;
 
 import android.Manifest;
 import android.content.pm.PackageManager;
